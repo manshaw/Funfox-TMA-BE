@@ -4,35 +4,35 @@ const users = [
         name: "Muhammad",
         password: "tma1234",
         pictureUrl: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        group:"fullstack"
+        group:"Fullstack Development Group"
     },
     {
         userId: 2345,
         name: "Ali",
         password: "tma2345",
         pictureUrl: "https://images.pexels.com/photos/997489/pexels-photo-997489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        group:"fullstack"
+        group:"Fullstack Development Group"
     },
     {
         userId: 3456,
         name: "Fatima",
         password: "tma3456",
         pictureUrl: "https://images.pexels.com/photos/5211517/pexels-photo-5211517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        group:"fullstack"
+        group:"Fullstack Development Group"
     },
     {
         userId: 4567,
         name: "Hassan",
         password: "tma4567",
         pictureUrl: "https://images.pexels.com/photos/8217880/pexels-photo-8217880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        group:"fullstack"
+        group:"Fullstack Development Group"
     },
     {
         userId: 5678,
         name: "Hussain",
         password: "tma5678",
         pictureUrl: "https://images.pexels.com/photos/11866012/pexels-photo-11866012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        group:"fullstack"
+        group:"Fullstack Development Group"
     }
 ];
 
