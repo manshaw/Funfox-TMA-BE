@@ -1,0 +1,21 @@
+{
+  "name": "funfox-tma-be",
+  "version": "1.0.0",
+  "description": "interview task for funfox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.2.0",
+    "@fastify/swagger": "^7.4.0",
+    "fastify": "^4.1.0",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/manshaw/Funfox-TMA-BE.git"
+  },
+  "author": "Manshoor",
+  "license": "ISC"
+}
