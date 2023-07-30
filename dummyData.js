@@ -76,6 +76,15 @@ const tasks = [
     },
     {
         id: 5,
+        assigneeId: 1234,
+        assignee: "Muhammad",
+        title: "Welcome Onboard",
+        description: "Thank you Manshoor for your time. We welcome you onboard",
+        status: "Pending",
+        dated: "05-09-2023"
+    },
+    {
+        id: 6,
         assigneeId: 3456,
         assignee: "Fatima",
         title: "Tooltip Typo",
@@ -84,7 +93,7 @@ const tasks = [
         dated: "09-09-2023"
     },
     {
-        id: 6,
+        id: 7,
         assigneeId: 3456,
         assignee: "Fatima",
         title: "Wrong Link",
